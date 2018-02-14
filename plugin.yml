@@ -1,0 +1,5 @@
+name: ChatTags
+main: com.yovez.chattags.Main
+version: 0.1
+author: Yovez
+depend: [Vault]
